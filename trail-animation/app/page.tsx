@@ -7,8 +7,8 @@ export default function Home() {
         <div className="hero-img">
           <img src="/hero.jpg" alt="" />
         </div>
-        <p>[ The future moves in frames ]</p>
-        <p>Hello World! ~Suyash</p>
+        <p>[ Reality renders one frame at a time  ]</p>
+        <p>Frames fade, I remain — Suyash</p>
 
         <TrailContainer/>
       </section>
