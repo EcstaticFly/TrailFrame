@@ -1,4 +1,4 @@
-# Interactive Image Trail Animation
+# TrailFrame
 
 A smooth mouse-following image trail effect built with Next.js and TypeScript. Features staggered reveal animations and automatic cleanup. Images appear along the mouse path with elegant clip-path transitions and fade-out effects.
 
